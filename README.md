@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Netflix Clone (React + Vite)
 
 A responsive Netflix front-end replica built using **React**, **Vite**, and **CSS Modules**. The application features dynamic movie browsing rows, a hero banner showcasing featured titles, and modular UI components styled to match Netflix's interface.
@@ -65,3 +66,6 @@ netflix-clone/
 ├── index.html                  # HTML template
 ├── package.json                # Project scripts and dependencies
 └── vite.config.js              # Vite configuration
+=======
+# myNetflixClone
+>>>>>>> ec21ef6c21522e52f4a38cc0265f5b0bba3a7ab8
